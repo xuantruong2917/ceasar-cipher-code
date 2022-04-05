@@ -45,17 +45,17 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 69);
             this.button1.TabIndex = 0;
-            this.button1.Text = "encrypt";
+            this.button1.Text = "encrypt \r\n(câu a)";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(325, 347);
+            this.button2.Location = new System.Drawing.Point(345, 347);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(152, 69);
             this.button2.TabIndex = 1;
-            this.button2.Text = "decrypt";
+            this.button2.Text = "decrypt \r\n(câu a)";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -114,11 +114,11 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(614, 347);
+            this.button3.Location = new System.Drawing.Point(604, 347);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(149, 69);
             this.button3.TabIndex = 8;
-            this.button3.Text = "brute-force";
+            this.button3.Text = "brute-force \r\n(câu b)";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -126,7 +126,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 509);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

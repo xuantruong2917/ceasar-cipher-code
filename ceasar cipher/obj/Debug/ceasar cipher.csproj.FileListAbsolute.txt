@@ -9,3 +9,14 @@ E:\room\C#\ceasar cipher\ceasar cipher\obj\Debug\ceasar cipher.csproj.GenerateRe
 E:\room\C#\ceasar cipher\ceasar cipher\obj\Debug\ceasar cipher.csproj.CoreCompileInputs.cache
 E:\room\C#\ceasar cipher\ceasar cipher\obj\Debug\ceasar cipher.exe
 E:\room\C#\ceasar cipher\ceasar cipher\obj\Debug\ceasar cipher.pdb
+E:\room\C#\ceasar-cipher-code\ceasar cipher\bin\Debug\ceasar cipher.exe.config
+E:\room\C#\ceasar-cipher-code\ceasar cipher\bin\Debug\ceasar cipher.exe
+E:\room\C#\ceasar-cipher-code\ceasar cipher\bin\Debug\ceasar cipher.pdb
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.csproj.AssemblyReference.cache
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.csproj.SuggestedBindingRedirects.cache
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar_cipher.Form1.resources
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar_cipher.Properties.Resources.resources
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.csproj.GenerateResource.cache
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.csproj.CoreCompileInputs.cache
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.exe
+E:\room\C#\ceasar-cipher-code\ceasar cipher\obj\Debug\ceasar cipher.pdb
